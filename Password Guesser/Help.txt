@@ -1,0 +1,20 @@
+Help.txt
+Password Guesser Englishexe v1
+
+Install:
+Once you have extracted the zip run 'Install.bat', this will generate some files.
+After you have run 'Install.bat' run 'Run.bat', this will start the program.
+That's it!
+
+Arguments:
+You may find that you want certain features enabled and disabled you can do this by adding and removing them
+from arguments.txt
+'-Clean' Removes logs, for new users.
+'-Noinfo' Disables Info messages unless they are forced.
+'-Debug' For advanced users forking or wanting more information (no context is given for these alerts).
+
+Copyright Disclaimer: 
+Using this program normally falls under teaching
+This content is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship and research. 
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
+(Section 107 of the Copyright Act 1976)
